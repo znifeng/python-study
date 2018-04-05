@@ -1,2 +1,11 @@
-# python-study
-python basis
+### python学习代码
+1. 装饰器
+2. 格式化
+3. 函数
+4. 列表生成式
+5. 日志logging
+6. map/reduce
+7. 多进程及进程间通信(管道、队列)
+8. 多线程及锁
+9. 数据库连接MySQLdb
+10. 正则表达式
