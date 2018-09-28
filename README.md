@@ -9,6 +9,7 @@
 8. 多线程及锁
 9. 数据库连接MySQLdb
 10. 正则表达式
+11. pytest单元测试及覆盖率展现
 
 ### Blogs
 1. [Python Logger使用](http://www.cnblogs.com/znicy/p/8724271.html)
