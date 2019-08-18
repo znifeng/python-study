@@ -2,7 +2,7 @@
 ## 依赖包安装
 ```
 pip install pytest
-pip install pip install pytest-cov
+pip install pytest-cov
 #not necessary
 pip install six --upgrade --ignore-installed six
 ```
