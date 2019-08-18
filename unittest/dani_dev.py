@@ -4,7 +4,7 @@
 import os, sys
 import json
 
-reload(sys) 
+reload(sys)
 sys.setdefaultencoding("utf-8") 
 
 
