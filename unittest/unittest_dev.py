@@ -8,7 +8,7 @@ dev的单元测试
 import os, sys
 import json
 import pytest, coverage
-from dev import *
+from dani_dev import *
 reload(sys) 
 sys.setdefaultencoding("utf-8") 
 
