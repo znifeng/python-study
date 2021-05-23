@@ -1,4 +1,5 @@
 # Condition/Lock的用法: https://zhuanlan.zhihu.com/p/337690762
+# with condition 相当于 condition.acquire() + condition.release()
 import threading
 import time
 
